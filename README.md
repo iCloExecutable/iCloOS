@@ -1,4 +1,4 @@
-# icloos-master
-icloOS 1.1.0 old repository 
+# iCloOS-master
+The new iCloOS
 
-setup files:https://github.com/iCloExecutable/icloos-files
+the link for the old client:https://github.com/iCloExecutable/icloos-files
