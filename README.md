@@ -8,6 +8,7 @@ We started on 1.1.4. It will be released in a few months. Now you can download R
 idk we will open a discord server 
 ## What do you need to do when you find a bug
 Just press the Issues tab or click [this](https://github.com/iCloExecutable/icloos-master/issues)
-#
+## Which versions are still getting security updates?
+To find out press [here](SECURITY.md)
 
 
