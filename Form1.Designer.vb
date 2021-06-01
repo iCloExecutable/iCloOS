@@ -36,9 +36,9 @@ Partial Class Form1
         Me.Label1.Font = New System.Drawing.Font("Microsoft YaHei UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
         Me.Label1.Location = New System.Drawing.Point(31, 32)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(138, 28)
+        Me.Label1.Size = New System.Drawing.Size(135, 28)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Kullanıcı Adı"
+        Me.Label1.Text = "Kullanıcı adı"
         '
         'Label2
         '
@@ -99,7 +99,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "iClosOS'a giriş yap"
+        Me.Text = "iClosOS'e giriş yap"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

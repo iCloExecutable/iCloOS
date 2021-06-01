@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{41536D74-CD6A-41DA-B5F6-5E0AA432FCDF}</ProjectGuid>
+    <ProjectGuid>{6D7A8CCA-D302-498C-AB11-F5FA437C1B5F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>iclosos.My.MyApplication</StartupObject>
     <RootNamespace>iclosos</RootNamespace>
@@ -89,10 +89,40 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="254.Designer.vb">
+      <DependentUpon>254.vb</DependentUpon>
+    </Compile>
+    <Compile Include="254.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aptest.Designer.vb">
+      <DependentUpon>aptest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aptest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="assistant.Designer.vb">
+      <DependentUpon>assistant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="assistant.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="ayarlar.Designer.vb">
       <DependentUpon>ayarlar.vb</DependentUpon>
     </Compile>
     <Compile Include="ayarlar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="browser.Designer.vb">
+      <DependentUpon>browser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="browser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dbs.Designer.vb">
+      <DependentUpon>dbs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dbs.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="delete.Designer.vb">
@@ -112,6 +142,12 @@
       <DependentUpon>Form2.vb</DependentUpon>
     </Compile>
     <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="güncellemesıfır.Designer.vb">
@@ -138,6 +174,12 @@
     <Compile Include="iclomenu.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="mail.Designer.vb">
+      <DependentUpon>mail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mail.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -161,8 +203,23 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="254.resx">
+      <DependentUpon>254.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aptest.resx">
+      <DependentUpon>aptest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="assistant.resx">
+      <DependentUpon>assistant.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ayarlar.resx">
       <DependentUpon>ayarlar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browser.resx">
+      <DependentUpon>browser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dbs.resx">
+      <DependentUpon>dbs.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="delete.resx">
       <DependentUpon>delete.vb</DependentUpon>
@@ -172,6 +229,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="güncellemesıfır.resx">
       <DependentUpon>güncellemesıfır.vb</DependentUpon>
@@ -184,6 +244,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="iclomenu.resx">
       <DependentUpon>iclomenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mail.resx">
+      <DependentUpon>mail.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

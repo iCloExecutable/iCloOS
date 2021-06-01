@@ -54,39 +54,39 @@ Namespace My
             End Get
         End Property
         
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
-        Public Property kullanıcı() As String
+        <Global.System.Configuration.UserScopedSettingAttribute(), _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
+         Global.System.Configuration.DefaultSettingValueAttribute("")> _
+        Public Property name() As String
             Get
-                Return CType(Me("kullanıcı"),String)
+                Return CType(Me("name"), String)
             End Get
-            Set
-                Me("kullanıcı") = value
+            Set(value As String)
+                Me("name") = value
             End Set
         End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
-        Public Property şifre() As String
+
+        <Global.System.Configuration.UserScopedSettingAttribute(), _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
+         Global.System.Configuration.DefaultSettingValueAttribute("")> _
+        Public Property password() As String
             Get
-                Return CType(Me("şifre"),String)
+                Return CType(Me("password"), String)
             End Get
-            Set
-                Me("şifre") = value
+            Set(value As String)
+                Me("password") = value
             End Set
         End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
-        Public Property doğum() As String
+
+        <Global.System.Configuration.UserScopedSettingAttribute(), _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
+         Global.System.Configuration.DefaultSettingValueAttribute("")> _
+        Public Property bdate() As String
             Get
-                Return CType(Me("doğum"),String)
+                Return CType(Me("bdate"), String)
             End Get
-            Set
-                Me("doğum") = value
+            Set(value As String)
+                Me("bdate") = value
             End Set
         End Property
     End Class

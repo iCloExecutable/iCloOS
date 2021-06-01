@@ -36,7 +36,7 @@ Partial Class Hakkında
         Me.PictureBox1.Location = New System.Drawing.Point(109, 60)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(123, 123)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 2
         Me.PictureBox1.TabStop = False
         '
@@ -58,7 +58,7 @@ Partial Class Hakkında
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(248, 28)
         Me.Label2.TabIndex = 4
-        Me.Label2.Text = "Version 1.1.0 for iCloOS"
+        Me.Label2.Text = "Version 1.1.4 for iCloOS"
         '
         'Label3
         '

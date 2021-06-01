@@ -17,3 +17,29 @@ D:\iclosos\iclosos\obj\Debug\iClosOS.exe
 D:\iclosos\iclosos\obj\Debug\iClosOS.xml
 D:\iclosos\iclosos\obj\Debug\iClosOS.pdb
 D:\iclosos\iclosos\obj\Debug\iclosos.Form2.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\bin\Debug\iClosOS.exe.config
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iClosOS.exe
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iClosOS.xml
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iClosOS.pdb
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\bin\Debug\iClosOS.exe
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\bin\Debug\iClosOS.pdb
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\bin\Debug\iClosOS.xml
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.vbprojResolveAssemblyReference.cache
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.ayarlar.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.delete.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.Form1.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.Form2.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.güncellemesıfır.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.iclobrowserapp.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.Hakkında.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.iclomenu.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.Resources.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.pchakkında.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.vbproj.GenerateResource.Cache
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.dbs.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.mail.resources
+c:\users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos._254.resources
+c:\Users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.assistant.resources
+c:\Users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.aptest.resources
+c:\Users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.Form3.resources
+c:\Users\eren yildiz\documents\visual studio 2013\Projects\iclosos\iclosos\obj\Debug\iclosos.browser.resources

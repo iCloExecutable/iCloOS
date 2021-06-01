@@ -1,7 +1,7 @@
 ﻿Public Class güncellemesıfır
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        MsgBox("Güncelleme Yok")
+        MsgBox("Güncellemeler github'a geçdi")
         Me.Hide()
     End Sub
 

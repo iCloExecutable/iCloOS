@@ -5,11 +5,11 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        My.Settings.kullanıcı = TextBox3.Text
-        My.Settings.şifre = TextBox2.Text
-        My.Settings.doğum = TextBox1.Text
+        My.Settings.name = TextBox3.Text
+        My.Settings.password = TextBox2.Text
+        My.Settings.bdate = TextBox1.Text
         My.Settings.Save()
-        MsgBox("Aramıza Hoşgeldin" & My.Settings.kullanıcı)
+        MsgBox("Aramıza Hoşgeldin " & My.Settings.name)
 
 
     End Sub
