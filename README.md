@@ -1,4 +1,4 @@
-# iCloOS-master
+# iCloOS
 The new iCloOS built from the remains of the old 1.1.0
 ## Why you should not build from the master
 just compile from master now
