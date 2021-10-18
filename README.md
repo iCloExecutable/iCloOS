@@ -10,3 +10,5 @@ We do. To join press [here](https://discord.gg/nHagDfWtQc)
 Just press the Issues tab or click [this](https://github.com/iCloExecutable/icloos-master/issues)
 ## Which versions are still getting security updates?
 To find out press [here](SECURITY.md)
+## Why is the newest version is 1.1.5.1?
+i got school
