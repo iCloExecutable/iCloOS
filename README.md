@@ -1,5 +1,4 @@
 # iCloOS
 The new iCloOS built from the remains of the old 1.1.0
 ## Update
-it didn't work. i found my old drive but since i'm moving, i can't access it rn.
-03/07/2022 - I found 2 old Memorex CD-R's named Basic and OS (real) 2. will look into them in the morning. - 07/07/2022 Found my old hard drive. May plug it in to my pc.
+Downloaded the github code, created a new vb project and modified some things in the sln file and look![image](https://user-images.githubusercontent.com/59067041/227745933-90744fbf-9be8-4c7a-8a42-ae862c3cc6ea.png) broken but working lol
