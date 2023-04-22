@@ -5,3 +5,5 @@ Finally iClosOS 2.0 is out lol after years
 ## My other projects
 * [iCloTV](https://github.com/iCloExecutable/iclotv)
 * [My website](https://github.com/iCloExecutable/iclostudios.ml)
+## Security
+Now that iCloOS 2.0 is out, here is the new updated [security page](https://github.com/iCloExecutable/SECURITY.MD)
