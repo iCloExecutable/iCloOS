@@ -1,5 +1,5 @@
 # iCloOS
-![repository-open-graph-template](https://github.com/iCloExecutable/iCloOS/assets/59067041/a977e8e0-4388-48c0-b9d7-ccd49789493c)
+
 <br />
 The new iCloOS built from the remains of the old 1.1.0
 ## New 2.0 release
