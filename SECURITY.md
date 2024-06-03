@@ -6,11 +6,11 @@ These are the versions that are getting security updates
 
 | Version | Supported          |
 | ------- | ------------------ |
-|   2.0   | :white_check_mark: |
-| 1.1.6   | :x:                |
+|   2.1   | :white_check_mark: |
+|   2.0   | :x:                |
+| 1.1.6.1 | :x:                |
 | 1.1.5   | :x:                |
 | 1.1.4   | :x:                |
-| 1.1.3   | :x:                |
 
 ## Reporting a Vulnerability
 
