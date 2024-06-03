@@ -8,10 +8,15 @@ These are the versions that are getting security updates
 | ------- | ------------------ |
 |   2.2   | :white_check_mark: |
 |   2.1   | :x:                |
-|   2.0   | :x:                | <------- Not recommended to use this version, very buggy
+|   2.0   | :x:                |
 | 1.1.6.1 | :x:                |
-| 1.1.5   | :x:                |
+| 1.1.6   | :x:                |
 
+## Recommended versions to use
+2.1 and higher is recommended.
+Warning: Do not use 2.0, it is very buggy.
+1.1.6.1 is a funny joke version, use it for lolz. Includes a prototype mobile launcher.
+Anything lower than 1.1.5 isn't recommended.
 ## Reporting a Vulnerability
 
 Just press on the Issues tab or press [here](https://github.com/iCloExecutable/icloos-master/issues)
