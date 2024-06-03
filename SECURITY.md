@@ -8,7 +8,7 @@ These are the versions that are getting security updates
 | ------- | ------------------ |
 |   2.2   | :white_check_mark: |
 |   2.1   | :x:                |
-|   2.0   | :x:                |
+|   2.0   | :x:                | <------- Not recommended to use this version, very buggy
 | 1.1.6.1 | :x:                |
 | 1.1.5   | :x:                |
 
