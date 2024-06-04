@@ -1,5 +1,5 @@
 # iCloOS
-
+WARNING : Do not download the source code on Github. Download it from os.iclostudios.ml/docs
 
 The new iCloOS built from the remains of the old 1.1.0
 ## New releases
