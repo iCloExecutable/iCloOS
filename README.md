@@ -1,6 +1,6 @@
 # iCloOS
-WARNING : Do not download the source code on Github. Download it from os.iclostudios.ml/docs
-
+WARNING : Do not download the source code on Github. Download it from my discord that is coming soon.
+Also I'm moving so no new releases for some time.
 The new iCloOS built from the remains of the old 1.1.0
 ## New releases
 2.6 is out
