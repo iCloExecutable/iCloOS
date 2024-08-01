@@ -6,11 +6,11 @@ These are the versions that are getting security updates
 
 | Version | Supported          |
 | ------- | ------------------ |
-|   2.8   | :white_check_mark: |
+|   3.0   | :white_check_mark: |
+|   2.9   | :x:                |
+|   2.8   | :x:                |
 |   2.7   | :x:                |
 |   2.6   | :x:                |
-|   2.5   | :x:                |
-|   2.4   | :x:                |
 
 ## Recommended versions to use
 2.1 and higher is recommended.
