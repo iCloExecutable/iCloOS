@@ -6,11 +6,11 @@ These are the versions that are getting security updates
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v1.1833 | :white_check_mark: |
+| v1.1923 | :white_check_mark: |
+| v1.1833 | :x:                |
 |   3.0   | :x:                |
 |   2.9   | :x:                |
 |   2.8   | :x:                |
-|   2.7   | :x:                |
 
 ## Recommended versions to use
 v1.1833 and higher is recommended.
