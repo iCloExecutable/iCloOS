@@ -2,7 +2,7 @@
 
 The new iCloOS built from the remains of the old 1.1.0
 ## New releases
-ui.main v1.1833 is out!
+ui.main v1.1923 is out!
 ## My other projects
 * [iCloTV](https://github.com/iCloExecutable/iclotv)
 * [My website](https://github.com/iCloExecutable/iclostudios.ml)
