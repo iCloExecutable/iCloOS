@@ -6,14 +6,14 @@ These are the versions that are getting security updates
 
 | Version | Supported          |
 | ------- | ------------------ |
-|   3.0   | :white_check_mark: |
+| v1.1833 | :white_check_mark: |
+|   3.0   | :x:                |
 |   2.9   | :x:                |
 |   2.8   | :x:                |
 |   2.7   | :x:                |
-|   2.6   | :x:                |
 
 ## Recommended versions to use
-2.1 and higher is recommended.
+v1.1833 and higher is recommended.
 
 1.1.6.1 is a funny joke version, use it for lolz. Includes a prototype mobile launcher.
 
