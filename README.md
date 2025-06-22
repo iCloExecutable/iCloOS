@@ -1,8 +1,7 @@
 # iCloOS
-
-The new iCloOS built from the remains of the old 1.1.0
+In this branch is the old source code for iCloOS, an hobby project from iCloExecutable
 ## New releases
-ui.main v1.1923 is out!
+ui.main v1.1923 is out! This means that ui.main is the successor of iCloOS.
 ## My other projects
 * [iCloTV](https://github.com/iCloExecutable/iclotv)
 * [My website](https://github.com/iCloExecutable/iclostudios.ml)
